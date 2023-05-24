@@ -75,3 +75,14 @@ nav{
 .produto-descricao{
     font-size: 18px;
 }
+footer{
+    text-align: center;
+    background: url("./bg.jpg");
+    padding: 40px 0;
+
+}
+
+.Copyright {
+    color: aliceblue;
+    font-size: 13px;
+}
