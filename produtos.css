@@ -123,6 +123,7 @@ form label, form p{
     border: none;
     border-radius: 5px;
     transition: 1s;
+    cursor: pointer;
 }
 
 .enviar:hover{
